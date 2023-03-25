@@ -1,2 +1,2 @@
 
-## Neovim configuration
+### gavin's neovim configuration
